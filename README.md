@@ -1,4 +1,10 @@
-### Hi there 👋
+### Tem alguém aí?
+
+Não sei me apresentar e falar sobre mim.
+
+Por que inventei de testar essa funcionalidade de colocar o README no perfil?
+
+Também não sei.
 
 <!--
 **nclfrnnds/nclfrnnds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
