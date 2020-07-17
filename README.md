@@ -1,8 +1,8 @@
-### Tem alguém aí?
+###
 
-Não sei me apresentar e falar sobre mim.
+Não sei me apresentar.
 
-Por que inventei de testar essa funcionalidade de colocar o README no perfil?
+Por que inventei de testar essa funcionalidade se não sei falar sobre mim?
 
 Também não sei.
 
