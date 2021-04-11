@@ -1,10 +1,6 @@
-### Oie
+### Olá
 
-Não sei me apresentar.
-
-Por que inventei de testar essa funcionalidade se não sei falar sobre mim?
-
-Também não sei.
+😁
 
 <!--
 **nclfrnnds/nclfrnnds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
